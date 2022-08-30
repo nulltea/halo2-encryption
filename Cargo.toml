@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "halo2-elgmal",
+    "halo2wrong-elgmal"
+]
